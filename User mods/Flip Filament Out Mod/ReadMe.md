@@ -4,7 +4,7 @@ Flip Filament Out Mod
 
 Описание
 
-Flip Filament Out Mod — это модификация для сушилки iDryer Unit, позволяющая быстро и легко развернуть выход филамента на 90 градусов. Оригинальная конструкция предусматривает поворот выхода с помощью 4 болтов, но для быстрого и удобного изменения расположения было решено использовать магниты.
+Flip Filament Out Mod — это модификация для сушилки iDryer Unit, позволяющая быстро и легко развернуть выход филамента на 180 градусов. Оригинальная конструкция предусматривает поворот выхода с помощью 4 болтов, но для быстрого и удобного изменения расположения было решено использовать магниты.
 
 Данная модификация полезна в случаях, когда большие катушки с пластиком, например FD Plast, зацепляются за крышку и застряют. В таких ситуациях можно быстро развернуть выход филамента вверх, чтобы устранить проблему.
 
@@ -38,7 +38,7 @@ Flip Filament Out Mod
 
 Description
 
-Flip Filament Out Mod is a modification for the iDryer Unit that allows you to quickly and easily rotate the filament output by 90 degrees. The original design allows for this adjustment using four bolts, but to make it more convenient and faster, magnets were used.
+Flip Filament Out Mod is a modification for the iDryer Unit that allows you to quickly and easily rotate the filament output by 180 degrees. The original design allows for this adjustment using four bolts, but to make it more convenient and faster, magnets were used.
 
 This modification is particularly useful in cases where large filament spools get stuck against the lid. By simply rotating the filament output upward, this problem is eliminated.
 
